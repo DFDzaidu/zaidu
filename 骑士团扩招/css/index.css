@@ -1,0 +1,157 @@
+a,
+img {
+	-webkit-touch-callout: none;
+	/* 禁止长按链接与图片弹出菜单 */
+}
+
+p,
+span,
+strong {
+	font-size: .3rem;
+	line-height: .6rem;
+}
+
+* {
+	margin: 0;
+	/* font-family:'CTjianheiti2c161b1a8f1e496'; */
+	/*font-family:'ruibo2c18dd6b031e496';*/
+}
+
+.mian {
+	/* height: 14rem; */
+	width: 100%;
+	background-image: url(../img/homh.png);
+	/* background-position: 77% 79%; */
+	background-size: 100%;
+
+}
+
+.top {
+	height: 7.2rem;
+}
+
+.con {
+	position: relative;
+	margin: .5rem auto;
+	width: 8rem;
+	background: #fff;
+	border-radius: .27rem;
+	border: .13rem solid #fa451d;
+	padding: .3rem;
+
+}
+
+.tis {
+	height: 1.3rem;
+	width: 4.5rem;
+	display: block;
+	text-align: center;
+	margin: 0 auto;
+	line-height: 1.3rem;
+	background-image: url(http://cdn.u1.huluxia.com/g4/M02/1C/BB/rBAAdmGwt9KATk9SAAAMljVYuxk362.png
+);
+	/* background-position: 77% 79%; */
+	background-size: 100%;
+	font-size: .4rem;
+	font-weight: 800;
+	text-indent: .4rem;
+	color: #a13d01;
+	letter-spacing: .3rem;
+}
+
+.lt {
+	position: absolute;
+	top: -0.19rem;
+	left: -0.3rem;
+}
+
+.rb {
+	position: absolute;
+	bottom: -.2rem;
+	right: -0.3rem;
+}
+
+.tip {
+	padding: .2rem;
+}
+
+.aimg {
+	display: block;
+	width: 90%;
+	margin: 0 auto;
+	border: 0.05rem solid #ff5958;
+	color: black;
+	text-decoration: none;
+	background: #ffffffd6;
+	border-radius: .2rem;
+	height: 1.5rem;
+	margin-top: .2rem;
+}
+
+.aimg img {
+	width: 1.2rem;
+	padding: .2rem;
+	float: left;
+}
+
+.aimg_dow {
+	float: left;
+	width: 3.5rem;
+	color: #000;
+	margin-top: .1rem;
+	line-height: .7rem;
+}
+
+.aimg_dow span {
+	display: block;
+}
+
+.dowspan {
+	line-height: 1.7rem;
+	border: .02rem solid #fe2374;
+	padding: .1rem;
+	border-radius: .1rem;
+	text-align: center;
+	font-family: fangsong;
+}
+
+.p1,
+.p2 {
+	text-align: center;
+	font-size: .3rem;
+	line-height: .95rem;
+	text-decoration: overline;
+
+}
+
+.jq {
+	display: flex;
+	align-content: center;
+	margin-top: .5rem;
+}
+
+.jq1,
+.jq2,
+.jq3 {
+	height: 1.05rem;
+	display: block;
+	width: 30%;
+	margin: 0 auto;
+	text-align: center;
+	line-height: 1.05rem;
+	background-image: url(../img/按钮.png);
+	background-position: 59% 74%;
+	background-size: 100%;
+	font-size: .4rem;
+	font-weight: 800;
+	color: #ffffff;
+	text-decoration: none;
+}
+
+.h {
+    height: 13rem;
+    width: 100%;
+    background-image: linear-gradient(to right bottom, #ff804b, #ff5529, #ff4f24);
+    background-size: 100%;
+    margin-top: -12rem;
+}
